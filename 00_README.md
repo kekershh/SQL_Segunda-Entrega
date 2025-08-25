@@ -1,10 +1,3 @@
-Perfecto 🙌 ya veo el formato del README anterior.
-Aquí tienes la **nueva versión actualizada** con la tabla **`metodo_pago`**, además de una sección de **vistas, funciones, stored procedures y triggers** con sus explicaciones, siguiendo exactamente el estilo del documento que me pasaste:
-
----
-
-# Coderhouse--SQL
-
 🧺 **ArepasDB\_Aparicio**
 
 Este proyecto tiene como finalidad diseñar una base de datos relacional en MySQL para una tienda de arepas artesanal, un negocio familiar que opera en Colombia. La base de datos busca digitalizar y organizar los procesos básicos del negocio: ventas, registro de clientes, movimientos de caja, manejo de proveedores, ingredientes y control de producción.
@@ -238,7 +231,3 @@ Consulta el archivo **script.sql** incluido en este repositorio para ver la crea
 
 **Angelica Aparicio** – Proyecto Final SQL
 Tienda de Arepas | Agosto 2025
-
----
-
-¿Quieres que lo deje así como **README final** o lo quieres también listo en **PDF con formato bonito** (títulos, íconos y el logo de la arepa que me pasaste)?
