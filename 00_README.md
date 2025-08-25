@@ -203,7 +203,7 @@ La tienda vende arepas artesanales directamente al público. Utiliza ingrediente
 
 ## 🧠 Diagrama Entidad-Relación (E-R)
 
-Adjunto como imagen en este repositorio.
+Sigue el link para ver el diagrama: https://dbdiagram.io/d/68acb84d1e7a6119678894ff
 
 ---
 
