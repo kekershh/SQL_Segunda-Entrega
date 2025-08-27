@@ -155,7 +155,7 @@ INSERT INTO caja (fecha, tipo_movimiento, descripcion, monto) VALUES
 ('2025-08-07', 'Ingreso', 'Venta en efectivo', 11000);
 
 -- Insertar Transacciones
-INSERT INTO transaccion (fecha, id_movimiento, id_producto, cantidad, precio_unitario, subtotal, id_metodo_pago) VALUES
+INSERT INTO transaccion (fecha, id_movimiento, id_producto, cantidad, precio_unitario, subtotal, id_metodo) VALUES
 ('2025-08-01', 1, 1, 4, 2500, 10000, 1),
 ('2025-08-01', 2, 2, 2, 3500, 7000, 2),
 ('2025-08-01', 2, 3, 1, 5000, 5000, 2),
