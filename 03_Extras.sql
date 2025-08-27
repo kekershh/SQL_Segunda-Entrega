@@ -31,10 +31,10 @@ JOIN proveedor pr ON ip.id_proveedor = pr.id_proveedor;
 
 -- Vista 5: Transacciones con método de pago
 CREATE OR REPLACE VIEW vista_transacciones_pagos AS
-SELECT t.id_transaccion, t.cantidad, t.subtotal, mp.nombre AS metodo_pago, v.fecha
+SELECT t.id_transaccion, t.cantidad, t.subtotal, mp.nombre AS metodo_pago, c.fecha
 FROM transaccion t
 JOIN metodo_pago mp ON t.id_metodo = mp.id_metodo
-JOIN venta v ON t.id_movimiento = v.id_venta;
+JOIN caja c ON t.id_movimiento = c.id_movimiento;
 
 -- ===========================================
 -- FUNCIONES (2)
