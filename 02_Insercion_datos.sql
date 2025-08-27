@@ -76,7 +76,7 @@ INSERT INTO producto_ingrediente (id_producto, id_ingrediente, cantidad_usada) V
 (10, 1, 0.25), (10, 2, 0.2);
 
 -- Insertar Métodos de Pago
-INSERT INTO metodo_pago (nombre_metodo) VALUES
+INSERT INTO metodo_pago (nombre) VALUES
 ('Efectivo'),
 ('Nequi'),
 ('Daviplata'),
