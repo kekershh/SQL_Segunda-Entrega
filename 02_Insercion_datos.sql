@@ -1,6 +1,7 @@
 -- ============================================
 -- SCRIPT DE INSERCIÓN DE DATOS - tienda_arepas
 -- ============================================
+USE tienda_arepas;
 
 -- Insertar Clientes
 INSERT INTO cliente (nombre, telefono, direccion, correo) VALUES
